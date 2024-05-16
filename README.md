@@ -6,3 +6,6 @@ git push [rep_link] [branch_name];
 git config user.name / user.email;
 git remote [Ссылка на репозиторий];
 git branch [Ссылка на ветку];
+git reset [Название файла];
+git diff [Просматривает изменения];
+git reset --hard [Вщзвращает все изменения];
